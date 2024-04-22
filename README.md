@@ -14,11 +14,12 @@ potential and contribute to the organization’s growth
 
 - 📫 if you want to contact me then you may follow below links:
 
-facebook : https://m.facebook.com/proogramminghub
+
 instagram : https://www.instagram.com/imanshu_sk/
 twitter : https://twitter.com/Himanshu_373
 github : https://github.com/imanshu-sk09
 linkedin : https://www.linkedin.com/in/himanshu-sonkar-3171b516a/
+instagram : https://www.instagram.com/imanshu_sk/
 email : himanshusonkar373@gmail.com
 
 
