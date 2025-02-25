@@ -1,29 +1,19 @@
-- 👋 Hi, I’m Himanshu Sonkar
-- 👀 I’m interested in Software Developer Engineer  
-- 🌱 I’m currently a small developer who likes to write C++, Java, MERN, Flutter
-- I know about:
+👋 Hi, I’m Himanshu Sonkar
+👀 I’m interested in Cybersecurity & Software Development
+🌱 I’m a developer passionate about C++, Java, MERN, Flutter, and Cybersecurity
 
-👨🏻‍💻Android Applications
-👨🏻‍💻Web API's and Wep app
-🧑🏽‍💻and few more.
-I am currently pursuing B.Tech. in Computer Engg (Final year) from College Of Technology, GBPUA&T.
+Skills & Expertise:
+👨🏻‍💻 Android Development
+🧑🏽‍💻 Web Applications & APIs
+🔐 Cybersecurity & Ethical Hacking, Cyber Forensic, PKI, SOC.
+💻 Full-Stack Development (React.js, Node.js, MongoDB, Express.js)
 
-🌱 I’m currently learning: react.js
-- 💞️ I’m looking to collaborate on To get an opportunity where I can make the best of my
-potential and contribute to the organization’s growth
+🎓 Currently pursuing: B.Tech. in Computer Engineering (Final Year) at College of Technology, GBPUA&T
 
-- 📫 if you want to contact me then you may follow below links:
+🌱 Currently learning: Advanced React.js and Cybersecurity Concepts
 
+💡 Looking for opportunities to:
 
-instagram : https://www.instagram.com/imanshu_sk/
-twitter : https://twitter.com/Himanshu_373
-github : https://github.com/imanshu-sk09
-linkedin : https://www.linkedin.com/in/himanshu-sonkar-3171b516a/
-instagram : https://www.instagram.com/imanshu_sk/
-email : himanshusonkar373@gmail.com
-
-
-<!---
-imanshu-sk09/imanshu-sk09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contribute my skills in Software Development & Security
+Collaborate on exciting projects
+Learn and grow in a dynamic environment
